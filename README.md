@@ -1,6 +1,23 @@
-# Nuxt 3 Minimal Starter
+Task Manager with Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Stack used:
+ - Vue 3
+ - Nuxt 3
+ - Vue Draggable
+ - SortableJS
+ - TypeScript
+ - Tailwindcss
+
+Implemented features:
+  - Drag & Drop
+  - Task Deletion
+  - Task Creation
+  - Column Deletion
+  - Column Creation
+  - Column Editing 
+
+![ShoT_2023-06-18-11-23-50_1920x1080](https://github.com/darksparkz1233/Nuxt3TaskManager/assets/66474636/292bcf2e-99a0-4f8d-ac8b-df7c07f86570)
+
 
 ## Setup
 
@@ -16,48 +33,3 @@ pnpm install
 # yarn
 yarn install
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
