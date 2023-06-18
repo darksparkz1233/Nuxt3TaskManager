@@ -1,4 +1,4 @@
-Task Manager with Nuxt 3
+**Task Manager with Nuxt 3**
 
 Stack used:
  - Vue 3
