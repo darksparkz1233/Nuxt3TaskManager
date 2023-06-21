@@ -1,5 +1,7 @@
 **Task Manager with Nuxt 3**
 
+**Try this project:** https://sparkling-kitten-2de9cc.netlify.app
+
 Stack used:
  - Vue 3
  - Nuxt 3
