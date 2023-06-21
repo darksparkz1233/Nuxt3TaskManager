@@ -14,6 +14,7 @@ Implemented features:
   - Drag & Drop
   - Task Deletion
   - Task Creation
+  - Task Copying (Hold `Alt` key while dragging a task to another column to copy it)
   - Column Deletion
   - Column Creation
   - Column Editing
